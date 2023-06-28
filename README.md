@@ -46,6 +46,7 @@
 - [Customizing Ghost Themes](https://ghost.org/docs/api/v3/handlebars-themes/): Guide to customizing themes using Ghost's Handlebars theme templating engine.
 - [Building a Custom Ghost Theme](https://ghost.org/docs/tutorials/building-a-custom-ghost-theme/): Tutorial on creating your own custom theme for Ghost.
 - [Ghost API Documentation](https://ghost.org/docs/api/v3/): Detailed documentation on the Ghost API and its usage.
+- [Self-hosted Ghost Blog Guide for Engineers](https://humblethoughts.net/ghost-blog-terraform-ansible-k8s-guide/)
 
 ## Communities and Forums
 
