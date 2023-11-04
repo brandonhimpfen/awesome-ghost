@@ -20,6 +20,7 @@
 
 ## Themes
 
+- [Source](https://github.com/TryGhost/Source):  The new default theme for Ghost with various layouts.
 - [Lyra](https://github.com/TryGhost/Lyra): A minimal and responsive theme for Ghost.
 - [Casper](https://github.com/TryGhost/Casper): The default theme for Ghost, clean and simple.
 - [Massively](https://github.com/codebushi/ghost-theme-massively): A modern and responsive theme inspired by the Massively template.
@@ -43,6 +44,7 @@
 ## Tutorials and Guides
 
 - [How to Install Ghost on Ubuntu](https://ghost.org/docs/install/ubuntu/): Step-by-step guide to install Ghost on Ubuntu.
+- [Introduction to Ghost](https://www.himpfen.com/introduction-ghost/): A look at Ghost and explore its features, benefits, and why it stands out among its competitors.
 - [Customizing Ghost Themes](https://ghost.org/docs/api/v3/handlebars-themes/): Guide to customizing themes using Ghost's Handlebars theme templating engine.
 - [Building a Custom Ghost Theme](https://ghost.org/docs/tutorials/building-a-custom-ghost-theme/): Tutorial on creating your own custom theme for Ghost.
 - [Ghost API Documentation](https://ghost.org/docs/api/v3/): Detailed documentation on the Ghost API and its usage.
