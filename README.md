@@ -43,12 +43,17 @@
 
 ## Tutorials and Guides
 
-- [How to Install Ghost on Ubuntu](https://ghost.org/docs/install/ubuntu/): Step-by-step guide to install Ghost on Ubuntu.
+- [How-to Install Ghost on Ubuntu](https://ghost.org/docs/install/ubuntu/): Step-by-step guide to install Ghost on Ubuntu.
 - [Introduction to Ghost](https://www.himpfen.com/introduction-ghost/): A look at Ghost and explore its features, benefits, and why it stands out among its competitors.
 - [Customizing Ghost Themes](https://ghost.org/docs/api/v3/handlebars-themes/): Guide to customizing themes using Ghost's Handlebars theme templating engine.
 - [Building a Custom Ghost Theme](https://ghost.org/docs/tutorials/building-a-custom-ghost-theme/): Tutorial on creating your own custom theme for Ghost.
 - [Ghost API Documentation](https://ghost.org/docs/api/v3/): Detailed documentation on the Ghost API and its usage.
 - [Self-hosted Ghost Blog Guide for Engineers](https://humblethoughts.net/ghost-blog-terraform-ansible-k8s-guide/): A comprehensive guide to setting up a Ghost blog using Terraform, Ansible, Kubernetes.
+- [How-to Create a Blog with Ghost](https://www.bettertechtips.com/blogging/ghost/create-blog-with-ghost/): This article will walk you through step by step to blog with Ghost.
+- [How-to Set up a Self-Hosted Ghost Blogging Platform](https://codecurated.com/blog/how-to-set-up-a-self-hosted-ghost-blogging-platform/): Learn how-to set up a self-hosted Ghost blog on DigitalOcean.
+- [How-to Install Ghost on CentOS 7](https://www.tecmint.com/install-ghost-in-centos-7/): How-to install an open source Ghost blog on a CentOS 7 system.
+- [How-to add a tip jar](https://ghost.org/tutorials/tip-jar/): Learn how-to add a tip jar to your site to give your readers more opportunities to support your content.
+- [How to use Code Injection](https://ghost.org/tutorials/use-code-injection-in-ghost/): Learn how-to get the most out of the code injection tool.
 
 ## Communities and Forums
 
