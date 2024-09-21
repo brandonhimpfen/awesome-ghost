@@ -10,6 +10,8 @@
 - [Plugins](#plugins)
 - [Tools](#tools)
 - [Tutorials and Guides](#tutorials-and-guides)
+- [Hosting Providers](#hosting-providers)
+- [Analytics](#analytics)
 - [Communities and Forums](#communities-and-forums)
 
 ## Official Resources
@@ -26,6 +28,8 @@
 - [Massively](https://github.com/codebushi/ghost-theme-massively): A modern and responsive theme inspired by the Massively template.
 - [Editorial](https://github.com/eddiesigner/ghost-theme-editorial): A beautiful and magazine-style theme for content-heavy blogs.
 - [Nubia](https://github.com/dbanksdesign/Nubia): A minimalistic theme designed for writers.
+- [Ease](https://github.com/TryGhost/Ease): A clean, bold, and minimalist theme designed for creators.
+- [Dawn](https://github.com/TryGhost/Dawn): A simple content-focused theme for writers and bloggers.
 
 ## Plugins
 
@@ -40,6 +44,8 @@
 - [Ghost-CLI](https://github.com/TryGhost/Ghost-CLI): A command-line tool for installing and managing Ghost instances.
 - [Gscan](https://github.com/TryGhost/gscan): A tool to validate your Ghost themes and plugins against best practices.
 - [Editorial Workflow](https://github.com/TryGhost/Ghost-Editorial-Workflow): A workflow management tool for collaborative content creation.
+- [Zapier Integration](https://zapier.com/apps/ghost/integrations): Automate tasks by connecting Ghost with other services using Zapier.
+- [Ghost on Docker](https://hub.docker.com/_/ghost): Official Ghost Docker image for easy deployment in a containerized environment.
 
 ## Tutorials and Guides
 
@@ -54,6 +60,17 @@
 - [How-to Install Ghost on CentOS 7](https://www.tecmint.com/install-ghost-in-centos-7/): How-to install an open source Ghost blog on a CentOS 7 system.
 - [How-to add a tip jar](https://ghost.org/tutorials/tip-jar/): Learn how-to add a tip jar to your site to give your readers more opportunities to support your content.
 - [How to use Code Injection](https://ghost.org/tutorials/use-code-injection-in-ghost/): Learn how-to get the most out of the code injection tool.
+- [How to Deploy Ghost with Docker](https://docs.ghost.org/install/docker/): Step-by-step guide to deploy Ghost using Docker.
+- [Ghost SEO Guide](https://ghost.org/resources/beginners-guide-to-seo/): Official guide to improving SEO on your Ghost blog.
+  
+## Hosting Providers
+- [Ghost(Pro)](https://ghost.org/pricing/): Official managed hosting from the Ghost team.
+- [DigitalOcean](https://www.digitalocean.com/products/droplets/): Affordable cloud hosting that supports Ghost with easy 1-click installs.
+
+## Analytics
+- [Google Analytics](https://ghost.org/integrations/google/): Official integration guide for Google Analytics.
+- [Fathom Analytics](https://usefathom.com/): A privacy-focused alternative to Google Analytics that integrates with Ghost.
+- [Plausible Analytics](https://plausible.io/): Simple and open-source analytics that integrates with Ghost.
 
 ## Communities and Forums
 
